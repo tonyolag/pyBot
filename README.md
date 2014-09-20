@@ -1,4 +1,4 @@
 pyBot
 =====
 
-A Successor of awesomeBot, built with Python.
+An IRC bot built by a python newbie
