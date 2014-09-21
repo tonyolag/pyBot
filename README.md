@@ -1,4 +1,4 @@
 pyBot
 =====
 
-An IRC bot built by a python newbie
+An IRC bot built with python by a newbie
