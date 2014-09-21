@@ -1,10 +1,11 @@
 import socket
 from ircManager import ircManager #Handler Should be imported
 # ^ ImportError: cannot import name 'register'
+
 class main:
-"""
-Main Bot Class
-"""
+    """
+    Main Bot Class
+    """
     def connect(self) :
         """
         Initiate Connection and respond to commands

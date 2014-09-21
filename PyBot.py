@@ -1,4 +1,5 @@
 import Main
+
 class PyBot:
     """
     External Bot class

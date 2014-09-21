@@ -1,7 +1,7 @@
 class ircManager:
-"""
-IRC proprietary handlers 
-"""
+    """
+    IRC proprietary handlers 
+    """
     def register(s, nick, login, mode, realname, channel):
         """
         Register on network

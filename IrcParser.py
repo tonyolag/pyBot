@@ -1,7 +1,7 @@
 class ircParser:
-"""
-Offers Parsing tools
-"""
+    """
+    Offers Parsing tools
+    """
     def parse(line) :
         """
         Parse an irc line
